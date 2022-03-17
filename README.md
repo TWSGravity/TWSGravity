@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning nothing
 
-👯 I’m looking to collaborate on nothing
+👯 I’m looking to collaborate on your mom
 
 🤔 I’m looking for help with nothing
 
