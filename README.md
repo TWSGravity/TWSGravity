@@ -4,17 +4,16 @@
 **TWSGravity/TWSGravity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+🔭 I’m currently working on nothing
+🌱 I’m currently learning nothing
+👯 I’m looking to collaborate on nothing
+🤔 I’m looking for help with nothing
+💬 Ask me about nothing
+📫 How to reach me: twitter idk
+😄 Pronouns: he/him
+⚡ Fun fact: hi
 
-- 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning nothing
-- 👯 I’m looking to collaborate on nothing
-- 🤔 I’m looking for help with nothing
-- 💬 Ask me about nothing
-- 📫 How to reach me: twitter idk
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: hi
-
-## Statistics
+### Statistics
 <a href="#stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWSGravity&hide=Makefile&theme=react">
 </a>
