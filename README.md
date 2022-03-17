@@ -1,8 +1,4 @@
-### Hi there 👋
-
-<!--
-**TWSGravity/TWSGravity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## Hi there 👋
 Here are some ideas to get you started:
 🔭 I’m currently working on nothing
 🌱 I’m currently learning nothing
@@ -13,7 +9,7 @@ Here are some ideas to get you started:
 😄 Pronouns: he/him
 ⚡ Fun fact: hi
 
-### Statistics
+## Statistics (not very good btw)
 <a href="#stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWSGravity&hide=Makefile&theme=react">
 </a>
