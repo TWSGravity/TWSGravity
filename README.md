@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 📫 How to reach me: twitter idk
 
-😄 Pronouns: he/him
+😄 Eat Shit Zemyoro
 
 ⚡ Fun fact: hi
 
