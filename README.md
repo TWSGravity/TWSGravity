@@ -1,23 +1,23 @@
 ## Hi there 👋
 Here are some ideas to get you started:
 
-🔭 I’m currently working on nothing
+🔭 I’m currently working on _______
 
-🌱 I’m currently learning nothing
+🌱 I’m currently learning _______
 
-👯 I’m looking to collaborate with your mom
+👯 I’m looking to collaborate with _______
 
-🤔 I’m looking for help with nothing
+🤔 I’m looking for help with _______
 
-💬 Ask me about nothing
+💬 Ask me about anything thats not related to coding
 
-📫 How to reach me: twitter idk
+📫 How to reach me: twitter 
 
-😄 Eat Shit Zemyoro
+😄 Eat Shit Zemyoro still love you tho
 
-⚡ Fun fact: hi
+⚡ Fun fact: bepis
 
-## Statistics (not very good btw)
+## My Shitty Statistics 
 <a href="#stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWSGravity&hide=Makefile&theme=react">
 </a>
