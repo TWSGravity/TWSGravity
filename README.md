@@ -3,7 +3,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on _______
 
-🌱 I’m currently learning _______
+🌱 I’m currently learning HTML, and Javascript
 
 👯 I’m looking to collaborate with _______
 
