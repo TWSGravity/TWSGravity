@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=7000&color=F7F7F7&width=250&lines=I+am+a+%22developer%22+;worst+youtuber+;and+gamer+in+existence" />
+    <img src="https://readme-typing-svg.herokuapp.com?duration=8000&color=F7F7F7&width=250&lines=I+am+a+%22developer%22+;worst+youtuber+;and+gamer+in+existence" />
 </p>
 
 <p align= "center">
