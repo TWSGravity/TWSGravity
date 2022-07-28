@@ -1,8 +1,15 @@
-## My Shitty Statistics 
-<a href="#stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWSGravity&hide=Makefile&theme=react">
-</a>
+<h2 align="center">Hey, I'm TWS_Gravity</h2>
+<p align="center">
+  <a href="https://twsgravity.github.io/present-4-you/">Present 4 You</a> •
+  <a href="https://youtube.com/TWSGravity">YouTube</a> •
+  <a href="https://twitter.com/TWS_Gravity">Twitter</a>
+</p>
 
-<a href="#stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TWSGravity&show_icons=true&line_height=33.5&count_private=true&theme=react" alt="TWS_Gravity's GitHub Stats">
-</a>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=6000&color=F7F7F7&width=250&lines=I+am+a+%22developer%22+;worst+youtuber+;and+gamer+in+existence" />
+</p>
+
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=twsgravity&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twsgravity&theme=react&layout=compact" />
+</p>
