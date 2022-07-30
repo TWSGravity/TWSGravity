@@ -1,4 +1,4 @@
-<h2 align="center">Hey, I'm TWS_Gravity</h2>
+<h2 align="center">Hey, I'm Gravity</h2>
 <p align="center">
   <a href="https://twsgravity.github.io/present-4-you/">Present 4 You</a> •
   <a href="https://youtube.com/TWSGravity">YouTube</a> •
